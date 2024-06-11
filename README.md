@@ -1,5 +1,5 @@
 ## Create one environment
-
+### code location : project_final.ipynb
 ```bash
     conda create -p ./content_generation python=3.12 -y
 ```
